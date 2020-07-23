@@ -1,13 +1,13 @@
 # Vue API Dashboard
 
-没什么，只是为了更方便的查看/找 Vue API。
+为了更方便的查看/找 Vue API。
 
 ## 安装/Install
 
-- [Tampermonkey](https://www.tampermonkey.net/)
-- [Greasy Fork: Vue API Dashboard (^2.0.0)](https://greasyfork.org/zh-CN/scripts/402459-vue-api-dashboard-2-0-0)
+- 浏览器安装扩展 [Tampermonkey](https://www.tampermonkey.net/)
+- 扩展中安装脚本 [Greasy Fork: Vue API Dashboard (^2.0.0)](https://greasyfork.org/en/scripts/407601-angularjs-api-dashboard-1-0-0)
 
-
+之后访问 [Vue](https://cn.vuejs.org/v2/api/) 官网体验。
 
 ## Screenshots
 
