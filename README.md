@@ -11,12 +11,14 @@
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/caringrun/assets/master/vue-api-dashboard-v2-light.png)
+![无法访问 raw.githubusercontent.com](https://raw.githubusercontent.com/caringrun/assets/master/vue-api-dashboard-v2-light.png)
 
-![](https://raw.githubusercontent.com/caringrun/assets/master/vue-api-dashboard-v2-dark.png)
+![无法访问 raw.githubusercontent.com](https://raw.githubusercontent.com/caringrun/assets/master/vue-api-dashboard-v2-dark.png)
+
+预览回滚：[light](https://i.loli.net/2020/07/24/Zcap7ndzLQYlwkr.png), [dark](https://i.loli.net/2020/07/24/MsbYaQTi2HfKe8N.png)
 
 ---
 
-**Donate**
+**[Donate](https://i.loli.net/2020/07/24/fO2yerxqXFuZV5L.png)**
 
 ![](https://raw.githubusercontent.com/caringrun/assets/master/donate.png)
